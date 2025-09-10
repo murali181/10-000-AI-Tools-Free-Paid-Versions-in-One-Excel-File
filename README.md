@@ -46,8 +46,8 @@ Open an **issue** or submit a **pull request** to make this resource even better
 <img width="1924" height="1084" alt="image" src="https://github.com/user-attachments/assets/a4d63320-a8c7-4cca-91f2-5d3b67f0461d" />
 
 ## 👤 Author
-Created by **[Your Name / Handle]**  
-📧 Contact: [your email or LinkedIn/GitHub link]  
+Created by **[MURALI KRISHNA]**  
+📧 Contact: [https://github.com/murali181]  
 
 ---
 
